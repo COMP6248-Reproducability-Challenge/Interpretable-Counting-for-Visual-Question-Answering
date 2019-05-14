@@ -6,6 +6,7 @@ Question Anwersing.} This paper propose a new method to count in visual question
 In addition, authors built a subset named How-Many-QA to filter questions which are not suitable to the method.
 In the details of reproduction, we have some places that are different from the original paper,
 including decrease the size of dataset, the structure of language model and the types of counting models.
+We do this work on colab
 
 # Run
 Firstly, download all of the .py files and put them in the root directory, then run **Perpare Data.ipynb**. When it is ready, run **Training IRLC.ipynb** and **Training SoftCount.ipynb.**
