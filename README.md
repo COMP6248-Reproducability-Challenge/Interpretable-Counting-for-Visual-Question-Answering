@@ -1,8 +1,7 @@
 # The COMP6248 Reproducibility Challenge
 
 This work is a part of **COMP6248 Reproducibility Challenge**. Our goal is replicating the 
-experiments described in the conference submissionb **Interpretable Counting for Visual 
-Question Anwersing**. This paper propose a new method to count in visual question answering, which increases accuracy.
+experiments described in the conference submissionb **[Interpretable Counting for Visual Question Answering](https://arxiv.org/pdf/1712.08697.pdf)**. This paper propose a new method to count in visual question answering, which increases accuracy.
 In addition, authors built a subset named How-Many-QA to filter questions which are not suitable to the method.
 In the details of reproduction, we have some places that are different from the original paper,
 including decrease the size of dataset, the structure of language model and the types of counting models.
